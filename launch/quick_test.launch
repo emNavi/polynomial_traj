@@ -1,0 +1,6 @@
+<launch>
+    <node name = "pub_traj_node" pkg = "polynomial_traj" type = "pub_traj_node" output = "screen" required="true">
+        <remap from="~cmd" to="/cmd_todo"/>
+    </node> 
+</launch>
+

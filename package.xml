@@ -52,10 +52,10 @@
   <build_depend>roscpp</build_depend>
   <build_export_depend>roscpp</build_export_depend>
   <exec_depend>roscpp</exec_depend>
-
+<!-- 
   <build_depend>traj_utils</build_depend>
   <build_export_depend>traj_utils</build_export_depend>
-  <exec_depend>traj_utils</exec_depend>
+  <exec_depend>traj_utils</exec_depend> -->
 
 
   <!-- The export tag contains other, unspecified, tags -->
